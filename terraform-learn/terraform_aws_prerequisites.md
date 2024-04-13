@@ -1,7 +1,3 @@
----
-title: Getting Started with Terraform and AWS Provider: Prerequisites and Setup
----
-
 # Getting Started with Terraform and AWS Provider: Prerequisites and Setup
 
 To start using Terraform with the AWS provider, you'll need a few prerequisites:
